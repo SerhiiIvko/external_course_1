@@ -1,0 +1,17 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>*.java.hsp\n*.sonarj\n*.sw*\n.DS_Store\n.settings\n.springBeans\nbin\nbuild.sh\nintegration-repo\nivy-cache\njxl.log\njmx.log\nderby.log\nspring-test/test-output/\n.gradle\nargfile*\npom.xml\nactivemq-data/\n\nclasses/\n/build\nbuildSrc/build\n/spring-*/build\n/src/asciidoc/build\ntarget/\n\n# Eclipse artifacts, including WTP generated manifests\n.classpath\n.project\nspring-*/src/main/java/META-INF/MANIFEST.MF\n\n# IDEA artifacts and output dirs\n*.iml\n*.ipr\n*.iws\n.idea\nout\ntest-output\natlassian-ide-plugin.xml\n.gradletasknamecache
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .gitignore	(date 1530465833000)
++++ .gitignore	(date 1530547086000)
+@@ -14,7 +14,6 @@
+ spring-test/test-output/
+ .gradle
+ argfile*
+-pom.xml
+ activemq-data/
+ 
+ classes/

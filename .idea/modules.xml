@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/homework_02/calc-console/calc-console.iml" filepath="$PROJECT_DIR$/homework_02/calc-console/calc-console.iml" group="homework_02 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/homework_02/calc-core/calc-core.iml" filepath="$PROJECT_DIR$/homework_02/calc-core/calc-core.iml" group="homework_02 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/homework_02/calc-interface/calc-interface.iml" filepath="$PROJECT_DIR$/homework_02/calc-interface/calc-interface.iml" group="homework_02 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/epam_homework.iml" filepath="$PROJECT_DIR$/epam_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework_01/homework_01.iml" filepath="$PROJECT_DIR$/homework_01/homework_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework_02/homework_02.iml" filepath="$PROJECT_DIR$/homework_02/homework_02.iml" group="homework_02 and modules" />
+      <module fileurl="file://$PROJECT_DIR$/homework_03/homework_03.iml" filepath="$PROJECT_DIR$/homework_03/homework_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework_05/homework_05.iml" filepath="$PROJECT_DIR$/homework_05/homework_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework_06/homework_06.iml" filepath="$PROJECT_DIR$/homework_06/homework_06.iml" />
+    </modules>
+  </component>
+</project>

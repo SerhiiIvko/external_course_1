@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="calc-console" />
+        <module name="calc-core" />
+        <module name="calc-interface" />
+        <module name="homework_03" />
+        <module name="homework_05" />
+        <module name="homework_06" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="calc-console" target="8" />
+      <module name="calc-core" target="1.8" />
+      <module name="calc-interface" target="1.8" />
+      <module name="epam_homework" target="1.8" />
+      <module name="homework_02" target="1.8" />
+      <module name="homework_03" target="1.5" />
+      <module name="homework_05" target="1.8" />
+      <module name="homework_06" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
