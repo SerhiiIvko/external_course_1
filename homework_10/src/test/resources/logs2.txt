@@ -1,0 +1,5 @@
+2018-07-11 12:07:30.612 TRACE  Module=ASC Operation: Logout       Execution time: 12572 ms
+2018-07-11 12:07:43.184 DEBUG  Module=LAB Operation: Get Order    Execution time: 1718  ms
+2018-07-11 12:07:44.902 INFO   Module=LMC Operation: Find Product Execution time: 34278 ms
+2018-07-11 12:08:19.180 WARN   Module=LMC Operation: Logout       Execution time: 24272 ms
+2018-07-11 12:08:43.452 DEBUG  Module=MIC Operation: Logout       Execution time: 12258 ms

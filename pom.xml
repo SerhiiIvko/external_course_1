@@ -3,11 +3,11 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <parent>
-        <groupId>external_course</groupId>
-        <artifactId>external_course</artifactId>
-        <version>1.0-SNAPSHOT</version>
-    </parent>
+    <!--<parent>-->
+        <!--<groupId>external_course</groupId>-->
+        <!--<artifactId>external_course</artifactId>-->
+        <!--<version>1.0-SNAPSHOT</version>-->
+    <!--</parent>-->
     <groupId>com.epam.ivko</groupId>
     <artifactId>epam_homework</artifactId>
     <packaging>pom</packaging>
@@ -17,6 +17,11 @@
         <module>homework_03</module>
         <module>homework_05</module>
         <module>homework_06</module>
+        <module>homework_04</module>
+        <module>homework_07</module>
+        <module>homework_08</module>
+        <module>homework_09</module>
+        <module>homework_10</module>
     </modules>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
